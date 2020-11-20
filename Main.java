@@ -9,7 +9,7 @@ public class Main {
 
         int sum = 0;
         int counter = 1;
-        int counter1 = 0;
+        int counter1;
         int xCounter = 0;
         int oCounter = 0;
         int xPos = 0;
